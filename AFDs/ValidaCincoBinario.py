@@ -4,6 +4,7 @@ import random
 
 global numero_binario
 global div, nn_div, numero
+
 div = []
 nn_div = []
 #Faz a conversão do valor para binario
